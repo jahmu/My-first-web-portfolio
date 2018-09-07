@@ -12,6 +12,6 @@ My-first-web-portfolio
 
 
 # Link to live site on GitHub Pages
-
+https://jahmu.github.io/My-first-web-portfolio/
 
 # Copyright and license information
