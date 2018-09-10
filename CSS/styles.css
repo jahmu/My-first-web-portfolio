@@ -1,0 +1,36 @@
+
+#name_top{
+    font-weight: 400;
+    text-align: center;
+    float:right;
+}
+#image_top{
+  float: left;
+}
+#my_hyperlinks{
+    background:coral;
+  float: right;
+  width: max-content;
+  height: min-content;
+  margin: 100px;uj 
+}
+body{
+    background-image:url("http://www.hdwallpaperspulse.com/wp-content/uploads/2017/11/29/boat-in-sea-image.jpg");
+    background-size:cover;
+}
+h1 {
+    color:white;
+    font-family: inherit;
+}
+h2 {
+    color: cadetblue;
+    font-family: cursive;
+}
+* {
+    color:gold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+p {
+    color: aliceblue;
+}
